@@ -22,19 +22,19 @@ Explore the relationship between Bitcoin market sentiment (Fear & Greed Index) a
 
 **1. Profitability by sentiment** — Extreme Greed periods had the highest avg profit/trade (~$68), roughly double Extreme Fear/Neutral (~$34).
 
-![Avg PnL by Sentiment](charts/avg_pnl_by_sentiment.png)
+
 
 **2. Win rate stays flat (~40%) across all sentiment regimes** — sentiment affects the *size* of wins/losses, not how often trades win.
 
-![Win Rate by Sentiment](charts/winrate_by_sentiment.png)
+
 
 **3. Traders place bigger bets during Fear** (~$7,182 avg) vs. Greed (~$4,574) — larger risk-taking during fearful/volatile periods.
 
-![Avg Trade Size by Sentiment](charts/avgsize_by_sentiment.png)
+
 
 **4. Most trading activity happens during moderate sentiment (Fear/Greed), not at extremes** — likely due to thinner participation when sentiment peaks.
 
-![Trade Count by Sentiment](charts/tradecount_by_sentiment.png)
+
 
 ## Strategic Takeaways
 - Extreme Greed = best avg profit per trade → momentum strategies may work well here, with disciplined exits (traders sell more during Greed).
